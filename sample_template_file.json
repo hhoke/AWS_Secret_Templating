@@ -1,0 +1,6 @@
+{
+    "prod": {
+        "REACT_APP_BUGSNAG_API_KEY": "{{evergreen/generic/WorstDog}}",
+        "REACT_APP_API_URL": "https://evergreen.mongodb.com/api"
+    }
+}
